@@ -3,6 +3,7 @@
 **Kelas A / Team 4**
 
 Main Web: [Airbnb](https://www.airbnb.co.id/)
+Demo: [Homes](https://franzxml.ct.ws/homes) | [Rooms](https://franzxml.ct.ws/rooms)
 
 | Name | NIM | Reference Page | Specific Component |
 | --- | --- | --- | --- |
